@@ -1,3 +1,21 @@
+<<<<<<< HEAD
+
+from matplotlib import pyplot as plt
+
+# data speding from Federal Government Plan
+regions = ['Norte', 'Nordeste', 'Centro-Oeste', 'Sudeste', 'Sul']
+
+number = [427, 1399, 594, 5658, 987]
+
+plt.axis("equal")
+
+plt.pie(number, labels=regions, autopct='%1.2f%%')
+
+plt.title("Cases per Region")
+
+plt.show()
+
+=======
 
 from matplotlib import pyplot as plt
 
@@ -14,3 +32,4 @@ plt.title("Sepending for Federal Governmnt Plan")
 
 
 
+>>>>>>> 5bf8646f604ce17984afcb379c27529fa80b8a4c
