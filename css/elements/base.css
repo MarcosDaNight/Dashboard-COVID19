@@ -1,0 +1,9 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    font: 400 14px Roboto, sans-serif;
+    background: var(--color-background);
+    -webkit-font-smoothing: antialiased;
+}

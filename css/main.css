@@ -1,0 +1,22 @@
+/* variaves que poderão ser usadas ao longo do projeto */
+@import './settings/gaps.css'; 
+@import './settings/colors.css'; 
+
+/* reset do css para tirar comportamento padrão do browser */ 
+@import './reset.css';
+
+/* elementos base do css */
+@import './elements/base.css';
+@import './elements/titles.css';
+@import './elements/li-gaps.css';
+
+/* componentização */
+@import './components/header-page.css';
+@import './components/title.css';
+@import './components/subtitle.css';
+@import './components/todo-list-general.css';
+@import './components/todo-list-individual.css';
+@import './components/footer-page.css';
+
+/* containers */
+@import './containers/content.css'
