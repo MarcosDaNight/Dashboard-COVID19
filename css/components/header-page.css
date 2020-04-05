@@ -17,12 +17,12 @@
     text-align: center;
     text-decoration: none;
     padding: 35px;
-    color: #000;
+    color: var(--color-text);
     transition: 0.2s linear;
 }
 
 .navigation > .menu-item:hover {
-    color: #fff;
-    background-color: #000;
+    color: var(--color-box);
+    background-color: var(--color-text);
     font-weight: bold;
 }
