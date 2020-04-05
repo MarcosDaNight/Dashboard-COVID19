@@ -28,7 +28,7 @@ plt.axis("equal")
 
 plt.pie(spend, labels=planes, autopct='%1.2f%%')
 
-plt.title("Sepending for Federal Governmnt Plan")
+plt.title("Gastos dos Planos Governamentais")
 
 
 
