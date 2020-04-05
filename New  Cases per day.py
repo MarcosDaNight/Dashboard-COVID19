@@ -7,6 +7,6 @@ number_of_cases = [1, 0, 4, 0, 25, 79, 137, 224, 418, 310, 502, 323, 1076]
 
 plt.plot(days, number_of_cases, color='blue', marker='o', linestyle='solid')
 
-plt.title('New Cases per Day')
+plt.title('Novos Casos por dia')
 
 plt.show()
