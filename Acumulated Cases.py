@@ -8,6 +8,6 @@ number_of_cases = [3, 77, 98,  200, 291, 621,
 
 plt.plot(days, number_of_cases, color='blue', marker='o', linestyle='solid')
 
-plt.title('Acumuleted Cases')
+plt.title('Casos Acumulados')
 
 plt.show()
