@@ -14,6 +14,7 @@
 @import './components/header-page.css';
 @import './components/title.css';
 @import './components/subtitle.css';
+@import './components/type-subtitle.css';
 @import './components/todo-list-general.css';
 @import './components/todo-list-individual.css';
 @import './components/footer-page.css';
