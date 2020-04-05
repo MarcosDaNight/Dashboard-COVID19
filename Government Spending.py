@@ -1,26 +1,10 @@
-<<<<<<< HEAD
+
 
 from matplotlib import pyplot as plt
 
 # data speding from Federal Government Plan
-regions = ['Norte', 'Nordeste', 'Centro-Oeste', 'Sudeste', 'Sul']
-
-number = [427, 1399, 594, 5658, 987]
-
-plt.axis("equal")
-
-plt.pie(number, labels=regions, autopct='%1.2f%%')
-
-plt.title("Cases per Region")
-
-plt.show()
-
-=======
-
-from matplotlib import pyplot as plt
-
-#data speding from Federal Government Plan
-planes = ['Transferência para saúde', 'FPE e FPM', 'Assistência Social', 'Suspensão de dívidas da União', 'Renegociação com bancos']
+planes = ['Transferência para saúde', 'FPE e FPM', 'Assistência Social',
+          'Suspensão de dívidas da União', 'Renegociação com bancos']
 
 spend = [8, 16, 2, 12.6, 9.3]
 
@@ -30,6 +14,4 @@ plt.pie(spend, labels=planes, autopct='%1.2f%%')
 
 plt.title("Gastos dos Planos Governamentais")
 
-
-
->>>>>>> 5bf8646f604ce17984afcb379c27529fa80b8a4c
+plt.show()

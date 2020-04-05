@@ -1,3 +1,6 @@
 ul > li {
     margin-bottom: var(--gap-smaller);
+    text-align: center;
+    font-weight: bolder;
+
 }
