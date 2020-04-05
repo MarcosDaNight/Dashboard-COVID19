@@ -1,0 +1,8 @@
+.link {
+    text-decoration: none;
+    color: var(--color-active);
+}
+
+.link:hover {
+    font-weight: bold;
+}

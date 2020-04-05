@@ -4,6 +4,7 @@ html, body {
 
 body {
     font: 400 14px Roboto, sans-serif;
+    color: var(--color-text);
     background: var(--color-background);
     -webkit-font-smoothing: antialiased;
 }

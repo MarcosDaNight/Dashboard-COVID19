@@ -17,7 +17,16 @@
 @import './components/type-subtitle.css';
 @import './components/todo-list-general.css';
 @import './components/todo-list-individual.css';
+@import './components/projects-presented.css';
+@import './components/projects-accepted.css';
+@import './components/paragraph.css';
 @import './components/footer-page.css';
+@import './components/link.css';
+@import './components/national-impact.css';
+@import './components/global-impact.css';
+@import './components/international-events.css';
+@import './components/national-events.css';
+@import './components/corona-icon.css';
 
 /* containers */
 @import './containers/content.css'

@@ -1,0 +1,5 @@
+.paragraph {
+    margin-top: var(--gap-smaller);
+    margin-bottom: var(--gap-medium);
+    text-indent: var(--gap-big);
+}

@@ -1,0 +1,13 @@
+.global-impact {
+    display: grid;
+    grid-gap: 24px;
+    
+    margin-bottom: var(--gap-big);
+}
+
+.global-impact > .item {
+    background-color: var(--color-box);
+    padding: 30px;
+    border-radius: 8px;
+    position: relative;
+}

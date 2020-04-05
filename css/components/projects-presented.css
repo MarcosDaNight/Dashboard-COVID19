@@ -1,0 +1,14 @@
+.projects-presented {
+    display: grid;
+    grid-gap: 24px;
+    
+    margin-bottom: var(--gap-big);
+}
+
+.projects-presented > .item {
+    background-color: var(--color-box);
+    height: 50px;
+    padding: 30px;
+    border-radius: 8px;
+    position: relative;
+}
