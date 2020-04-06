@@ -1,7 +1,9 @@
 .type-subtitle {
-    font-family: 'Comic Neue', cursive;
+    font-family: 'Oswald', sans-serif;
     font-weight: bold;
     font-size: 18px;
     margin-left: var(--gap-medium);
     margin-bottom: var(--gap-big);
+    color: black;
+    
 }

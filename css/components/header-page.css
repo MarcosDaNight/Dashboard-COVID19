@@ -17,12 +17,16 @@
     text-align: center;
     text-decoration: none;
     padding: 35px;
-    color: var(--color-text);
+    color: white;
     transition: 0.2s linear;
+    font-weight: lighter;
+
 }
 
 .navigation > .menu-item:hover {
     color: var(--color-box);
     background-color: var(--color-text);
     font-weight: bold;
+    color: whitesmoke;
+
 }

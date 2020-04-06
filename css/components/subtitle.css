@@ -1,5 +1,6 @@
 .subtitle {
-    font-family: 'Comic Neue', cursive;
+    font-family: 'Oswald', sans-serif;
     font-size: 24px;
     margin-bottom: var(--gap-big);
+    color: #fffefe;
 }
